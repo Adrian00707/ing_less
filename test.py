@@ -1,2 +1,4 @@
 print('Test')
-print
+print(
+    'This is a test file.'
+)
